@@ -1,0 +1,135 @@
+body {
+    background:	#e3e4e6;
+      margin: 0;
+      font-family: 'Roboto', sans-serif; }
+    .topnav {
+        margin-top: 20px;
+        border-radius: 10px;
+      overflow: hidden;
+      background-color: #313131;
+      margin-left: 20px;
+      margin-right: 20px;
+    }
+    
+    .topnav a {
+      float: left;
+      display: block;
+      color:#f7d0cb;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-size: 17px;
+      margin-left: 20px;
+    }
+    
+    .topnav a:hover {
+      background-color: #ddd;
+      color: black;
+      margin-left: 40px;
+    }
+    
+    .topnav a.active {
+      background-color: #e3e4e6;
+      color: white;
+    }
+    
+    .topnav .search-container {
+      float: right;
+    }
+    
+    .topnav input[type=text] {
+    border-radius: 5px;
+      padding: 6px;
+      margin-top: 8px;
+    margin-right: 20px;
+      font-size: 17px;
+      border: none;
+    }
+    
+    .topnav .search-container button {
+      float: right;
+      padding: 6px 10px;
+      margin-top: 8px;
+      margin-right: 16px;
+      background: #ddd;
+      font-size: 17px;
+      border: none;
+      cursor: pointer;
+    }
+    
+    .topnav .search-container button:hover {
+      background: #ccc;
+    }
+    
+        h3,p{
+          text-align: justify;
+          margin:10px;
+        }
+        .rosa1{
+          background-color:	#f7d0cb;
+          border-radius: 10px;
+          margin: 30px 5px; 
+      }
+      .rosa2{
+          background-color:#f6d9d5;
+          border-radius: 10px;
+          margin: 30px 5px; 
+      }
+      .rosa3{
+          background-color: #ffd4e5;
+          border-radius: 10px;
+          margin: 30px 3px; 
+      }
+      .rosa4{
+        background-color:#f6d9d5;
+        border-radius: 5px;
+        margin: 30px 2px;
+        margin-left: 50px; 
+        margin-right: 50px;
+    }
+      .altura{
+          height: 100px;
+      }
+      .altura1{
+          height: 350px;
+      }
+      .row{
+        margin-left: 20px;
+        margin-right: 20px;
+      }
+      .logo{
+        width: 200px;
+      
+      }
+      .h5{
+        text-align: justify;
+      }
+      .rosa4{
+        background-color:#f7d0cb;
+        border-radius: 5px;
+        margin: 30px 2px;
+        margin-left: 50px; 
+        margin-right: 50px;
+    }
+      .altura{
+          height: 100px;
+      }
+      .altura1{
+          height: 350px;
+      }
+      .row{
+        margin-left: 20px;
+        margin-right: 20px;
+      }
+      .escudo{
+       margin-left: 100px;
+       margin-right: 200px;
+       margin-top:  5px;
+       border-radius: 10px;
+       }
+       .diseños{
+         text-align: center;
+       }
+      
+
+
